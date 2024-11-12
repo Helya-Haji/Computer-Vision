@@ -1,3 +1,2 @@
 # object tracking
-## Python & opencv
-using SIFT
+object tracking in python using opencv and SIFT
