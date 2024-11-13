@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-template = cv2.imread(r'E:\work\task-1\book.jpg', cv2.IMREAD_COLOR)  # Ensure color loading
+template = cv2.imread(r'C:\Users\Helya\Desktop\git\copmuter vision\objeckt tracking\objeckt.jpg', cv2.IMREAD_COLOR)  # Ensure color loading
 if template is None:
     print("Error: Template image not found. Check the path.")
     exit(1)
