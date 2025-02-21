@@ -1,0 +1,48 @@
+Clicked HSV: [75, 18, 197]
+Current HSV Range: Lower - [75, 18, 197], Upper - [75, 18, 197]
+----
+Clicked HSV: [73, 22, 187]
+Current HSV Range: Lower - [73, 18, 187], Upper - [75, 22, 197]
+----
+Clicked HSV: [72, 24, 178]
+Current HSV Range: Lower - [72, 18, 178], Upper - [75, 24, 197]
+----
+Clicked HSV: [72, 30, 185]
+Current HSV Range: Lower - [72, 18, 178], Upper - [75, 30, 197]
+----
+Clicked HSV: [72, 17, 193]
+Current HSV Range: Lower - [72, 17, 178], Upper - [75, 30, 197]
+----
+Clicked HSV: [60, 20, 207]
+Current HSV Range: Lower - [60, 17, 178], Upper - [75, 30, 207]
+----
+Clicked HSV: [62, 17, 207]
+Current HSV Range: Lower - [60, 17, 178], Upper - [75, 30, 207]
+----
+Clicked HSV: [69, 18, 202]
+Current HSV Range: Lower - [60, 17, 178], Upper - [75, 30, 207]
+----
+Clicked HSV: [73, 23, 181]
+Current HSV Range: Lower - [60, 17, 178], Upper - [75, 30, 207]
+----
+Clicked HSV: [27, 203, 107]
+Current HSV Range: Lower - [27, 203, 107], Upper - [27, 203, 107]
+----
+Clicked HSV: [27, 195, 106]
+Current HSV Range: Lower - [27, 195, 106], Upper - [27, 203, 107]
+----
+Clicked HSV: [26, 88, 215]
+Current HSV Range: Lower - [26, 88, 106], Upper - [27, 203, 215]
+----
+Clicked HSV: [33, 79, 200]
+Current HSV Range: Lower - [26, 79, 106], Upper - [33, 203, 215]
+----
+Clicked HSV: [29, 220, 108]
+Current HSV Range: Lower - [26, 79, 106], Upper - [33, 220, 215]
+----
+Clicked HSV: [28, 212, 112]
+Current HSV Range: Lower - [26, 79, 106], Upper - [33, 220, 215]
+----
+Clicked HSV: [28, 174, 114]
+Current HSV Range: Lower - [26, 79, 106], Upper - [33, 220, 215]
+----
